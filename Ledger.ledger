@@ -1,0 +1,6 @@
+alias a=Assets
+alias b=Assets:Banking
+alias c=Liabilities:Credit
+alias l=Liabilities
+alias e=Expenses
+alias i=Income
